@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Projeto: SorteSua! - Website de uma loteria online.
+# 👨🏻‍💻 Projeto: SorteSua! - Website de uma loteria.
 
 - Criado por meio do padrão de arquitetura Model View Controller (MVC), o padrão de software Contexts and Dependency Injection (CDI), a linguagem de script JavaServer Pages (JSP) e o gerenciador de dependências Maven
 
