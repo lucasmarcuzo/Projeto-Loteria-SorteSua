@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/lucasmarcuzo/Projeto-Loteria-SorteSua">
-<img  width="800"  height="400" src="apresentation/SorteSua!.gif">
+<img  width="800"  height="400" src="presentation/SorteSua!.gif">
 </p>
 
 ## 🛠 Tecnologias utilizadas:
