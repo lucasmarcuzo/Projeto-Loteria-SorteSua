@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Projeto: SorteSua! - Website de uma loteria online.
 
-- Criado por meio do padrão de arquitetura Model View Controller (MVC), o padrão de software Contexts and Dependency Injection (CDI) e a linguagem de script JavaServer Pages (JSP).
+- Criado por meio do padrão de arquitetura Model View Controller (MVC), o padrão de software Contexts and Dependency Injection (CDI), a linguagem de script JavaServer Pages (JSP) e o gerenciador de dependências Maven
 
 ## 💻 Apresentação:
 
@@ -34,4 +34,4 @@
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-Loteria-SorteSua)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻</h3> </div> 
-<p align="right"> <img src=""> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-LoteriaSorteSua"> </p>
