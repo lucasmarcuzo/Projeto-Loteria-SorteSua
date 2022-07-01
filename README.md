@@ -34,4 +34,4 @@
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-Loteria-SorteSua)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻</h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-LoteriaSorteSua"> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-LoteriaSorteSua!"> </p>
