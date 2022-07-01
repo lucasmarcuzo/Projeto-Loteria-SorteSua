@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/lucasmarcuzo/Projeto-Integrado-FAWS">
-<img  width="400"  height="150"  src="FAWS/FAWS_WMS/Resources/logo.png">
+<img  width="400"  height="150" src="FAWS/FAWS_WMS/Resources/logo.png">
 </p>
 
 <h4> - Projeto de um WebSite de uma loteria online. </h4>
