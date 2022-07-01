@@ -285,13 +285,13 @@
                 
               </div>
               <div class="card-footer text-center">
-                <a href="newbet.html" class="btn btn-primary btn-icon-split btn-lg mt-3 mb-3 mr-4">
+                <a href="<c:url value="newbet"/>" class="btn btn-primary btn-icon-split btn-lg mt-3 mb-3 mr-4">
                   <span class="icon text-white-50">
                     <i class="fas fa-plus"></i>
                   </span>
                   <span class="text">Nova Aposta</span>
                 </a>
-                <a href="bets.html" class="btn btn-info btn-icon-split btn-lg mt-3 mb-3">
+                <a href="<c:url value="bets"/>" class="btn btn-info btn-icon-split btn-lg mt-3 mb-3">
                   <span class="icon text-white-50">
                     <i class="fas fa-cubes"></i>
                   </span>

@@ -363,7 +363,7 @@
               
               </div>
               <div class="card-footer text-center">
-                <a href="results.html" class="btn btn-primary btn-icon-split btn-lg mt-3 mb-3">
+                <a href="<c:url value="results"/>" class="btn btn-primary btn-icon-split btn-lg mt-3 mb-3">
                   <span class="icon text-white-50">
                     <i class="fas fa-check"></i>
                   </span>
