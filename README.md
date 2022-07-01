@@ -1,11 +1,13 @@
-## 👨🏻‍💻 Projeto: Loteria SorteSua!
+# 👨🏻‍💻 Projeto: SorteSua! - Website de uma loteria online.
+
+- Criado por meio do padrão de arquitetura Model View Controller (MVC), o padrão de software Contexts and Dependency Injection (CDI) e a linguagem de script JavaServer Pages (JSP).
+
+## 💻 Apresentação:
 
 <p align="center">
-<a href="https://github.com/lucasmarcuzo/Projeto-Integrado-FAWS">
-<img  width="400"  height="150" src="FAWS/FAWS_WMS/Resources/logo.png">
+<a href="https://github.com/lucasmarcuzo/Projeto-Loteria-SorteSua">
+<img  width="800"  height="400" src="apresentation/SorteSua!.gif">
 </p>
-
-<h4> - Projeto de um WebSite de uma loteria online. </h4>
 
 ## 🛠 Tecnologias utilizadas:
 
@@ -17,6 +19,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
@@ -30,5 +33,5 @@
 
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-Loteria-SorteSua)
 
-<div align="right"> <h3> - Thanks for visiting! ✌🏻</h3> </div> 
+<div align="right"> <h3> - Obrigado pela visita! ✌🏻</h3> </div> 
 <p align="right"> <img src=""> </p>
